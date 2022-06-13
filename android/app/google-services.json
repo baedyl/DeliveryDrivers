@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570616527377",
+    "firebase_url": "https://africanbasket-341203-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "africanbasket-341203",
+    "storage_bucket": "africanbasket-341203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570616527377:android:ff53575afef9095c4d8fb0",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570616527377-sot48n6od7d6de2hsjs00btvadrufqu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EAsmt6Lg01gRIlXqBaB578ZBc-3Lt_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570616527377-sot48n6od7d6de2hsjs00btvadrufqu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
